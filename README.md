@@ -4,3 +4,6 @@
 
 - Fiz tudo pelo celular
 + Usei o termux
+
+1. Primeiro passo usar o python
+2. Segundo passo.....
