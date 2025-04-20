@@ -10,3 +10,6 @@
 
 ## Links e referências
 [Link do Google](https://www.google.com/)
+
+## Imagens
+![Imagem do YouTube](https://pt.m.wikipedia.org/wiki/Ficheiro:YouTube_full-color_icon_(2017).svg)
