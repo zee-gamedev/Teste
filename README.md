@@ -1,1 +1,2 @@
-# Estudando Linguagen
+# Estudando Linguagens
+## Estudando Linguagens
