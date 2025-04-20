@@ -13,3 +13,8 @@
 
 ## Imagens
 ![Imagem do YouTube](https://github.com/zee-gamedev/imagem_youtube/blob/main/download.png)
+
+## Blocos de códigos
+```bash
+print("Olá mundo")
+```
