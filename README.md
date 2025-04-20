@@ -1,3 +1,3 @@
 # Estudando Linguagens
 
-<p>Aqui tem scripts em <string>python</string>, **java**, **html** e mais.</p>
+<p>Aqui tem scripts em <strong>python</strong>, **java**, **html** e mais.</p>
